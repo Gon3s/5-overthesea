@@ -1,28 +1,10 @@
-# Introduction
+# Challenge Overthesea
 
-This is Kevin Cuoq's quick vite project running on [ViteJS 2](https://vitejs.dev/) with [SASS](https://sass-lang.com/) compiler.
+Challenge lancé par [Benjamin Code](https://www.youtube.com/watch?v=uzcaGkJWBXk) pour l'intégration d'une maquette.
 
-## Installation
-``` 
-npm install
-```
+![Screenshot](screenshot.png)
 
-**For development mode**
-
-```
-npm run dev
-```
-
-Then go to `localhost:3000`
-
-**For production mode**
-
-```
-npm run build
-```
-
-All the files are generate to `/dist` folder
-
+Ce challenge m'a permis de teste ViteJS pour générer mon code Sass ainsi que de travailler avec les grids CSS.
 
 ## Contact
 
